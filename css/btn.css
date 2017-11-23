@@ -1,0 +1,12 @@
+.btn {
+	width: 120px;
+	height: 40px;
+	border: none;
+	background-color: orange;
+	color: white;
+	cursor: pointer;
+	outline: none;
+}
+.btn:hover {
+	background-color: #EE7600;
+}
